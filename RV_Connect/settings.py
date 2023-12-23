@@ -30,7 +30,8 @@ DEBUG = False
 
 ALLOWED_HOSTS = [
     'localhost',
-    'p8u4DZxbX2UzaPO8hev0LDEUT0XcDM.pythonanywhere.com'
+    'p8u4DZxbX2UzaPO8hev0LDEUT0XcDM.pythonanywhere.com',
+    '.vercel.app'
 ]
 
 
